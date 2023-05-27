@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name:  spring-web-demo
-        image:  saga1987/argocd-lab-demo:v2
+        image:  saga1987/argocd-lab-demo:v1
         resources:
           requests:
             cpu: 100m
